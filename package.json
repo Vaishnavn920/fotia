@@ -1,7 +1,7 @@
 {
   "name": "cladis",
   "version": "0.1.0",
-  "homepage": "http://iamvaishnav.github.io/cladis",
+  "homepage": "http://iamvaishnav.github.io/fotia",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
